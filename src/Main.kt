@@ -4,4 +4,5 @@ fun main() {
     println("Hello World!")
     println(Test().main())
     println(person2())
+    println(person())
 }
