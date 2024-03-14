@@ -1,6 +1,3 @@
 class Test {
-    fun main()
-    {
-        println("checking")
-    }
+    fun main() {"checking"}
 }
