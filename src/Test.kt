@@ -1,3 +1,4 @@
 class Test {
-    fun main() {"checking"}
+    fun main():String {return "checking"
+    }
 }
